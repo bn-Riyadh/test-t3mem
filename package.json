@@ -1,0 +1,28 @@
+{
+  "name": "X_HUN",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "discord.js-menu": "^2.2.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node.js": "0.0.1-security",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.2",
+    "urban": "^0.3.2"
+  }
+}
